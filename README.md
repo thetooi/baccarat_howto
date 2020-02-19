@@ -16,5 +16,5 @@ $engine->exec("set names utf8");
 # Support Me :D
 support this project by make a donation to project developer.<br>
 สนับสนุนโปรเจคได้โดยการโดเนทในคนทำ กี่บาทกะได้ 555+<br>
-[Paypal (paypal.me/lolipopkungz)]( https://www.paypal.me/lolipopkungz "Focus Dev")<br>
-[Paypal (paypal.me/lolipopkungz)]( https://www.paypal.me/lolipopkungz "Teykung")<br>
+[Paypal (paypal.me/lolipopkungz)]( https://www.paypal.me/Focus Dev "Focus Dev")<br>
+[Paypal (paypal.me/lolipopkungz)]( https://www.paypal.me/เต้คุง ส์ "Teykung")<br>
